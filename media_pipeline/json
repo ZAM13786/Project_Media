@@ -1,0 +1,17 @@
+{
+  "title": "Introduction to Newton's Laws of Motion",
+  "slides": [
+    {
+      "text": "Newton's first law states that an object remains at rest or in uniform motion unless acted on by an external force.",
+      "image_prompt": "diagram of a block on a frictionless surface with forces"
+    },
+    {
+      "text": "Newton's second law relates force, mass, and acceleration using the formula F equals m times a.",
+      "image_prompt": "free body diagram of a box being pushed with labeled forces"
+    },
+    {
+      "text": "Newton's third law states that for every action there is an equal and opposite reaction.",
+      "image_prompt": "two skaters pushing off each other on ice"
+    }
+  ]
+}
